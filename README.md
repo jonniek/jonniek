@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="banner.jpg">
+  <img src="https://github.com/jonniek/jonniek/raw/master/banner.jpg">
 </div>
