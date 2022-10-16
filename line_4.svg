@@ -4,7 +4,7 @@
   </path>
   <text font-family="monospace" fill="#c9d1d9" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
     <textPath xlink:href="#path4">
-    &nbsp;&nbsp;I'm a software developer.
+    &#160;&#160;I'm a software developer.
     </textPath>
   </text>
 </svg>
