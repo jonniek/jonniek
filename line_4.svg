@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 5 435 25" style="background-color: #00000000;" width="435px" height="25px">
+  <path id="path4">
+    <animate fill="freeze" id="d4" attributeName="d" begin="2.8s" dur="2.5s" from="m0,25 h0" to="m0,25 h330" />
+  </path>
+  <text font-family="monospace" fill="#c9d1d9" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
+    <textPath xlink:href="#path4">
+    &nbsp;&nbsp;I'm a software developer.
+    </textPath>
+  </text>
+</svg>
