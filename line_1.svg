@@ -4,7 +4,7 @@
   </path>
   <text font-family="monospace" fill="#c9d1d9" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
     <textPath xlink:href="#path0">
-      &lt;<tspan fill="#7ee787">h1</tspan>&gt;Hi&lt;/<tspan fill="#7ee787">hi</tspan>&gt;
+      &lt;<tspan fill="#7ee787">h1</tspan>&gt;Hi&lt;/<tspan fill="#7ee787">h1</tspan>&gt;
     </textPath>
   </text>
 </svg>
