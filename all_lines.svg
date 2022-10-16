@@ -1,86 +1,89 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 5 435 200" width="435px" height="232px">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 5 435 200" width="435px" height="195px">
   <style>
-    svg { background-color: #f6f8fa, border-radius: 5px; }
+    rect { background-color: #f6f8fa, border-radius: 5px; }
     text { fill: #24292f }
     .el { fill: #116329 }
     .attr { fill: #0550ae }
     .val { fill: #0a3069 }
     @media (prefers-color-scheme:dark) {
-      svg { background-color: #161b22 }
+      rect { background-color: #161b22 }
       text { fill: #c9d1d9 }
       .el { fill: #7ee787 }
       .attr { fill: #79c0ff }
       .val { fill: #a5d6ff }
     }
   </style>
+
+  <rect width="100%" height="195px" rx="6" ry="6" x="-6" y="6" />
+
   <path id="path0">
-    <animate fill="freeze" id="d0" attributeName="d" begin="0s" dur="1.1s" from="m0,25 h0" to="m0,25 h140" />
+    <animate fill="freeze" attributeName="d" begin="0s" dur="1.1s" from="m0,25 h0" to="m0,25 h156" />
   </path>
-  <text font-family="monospace" fill="#c9d1d9" font-size="20" dominant-baseline="auto" x="16" text-anchor="start">
+  <text font-family="monospace" font-size="14.5" x="16" y="16">
     <textPath xlink:href="#path0">
       &lt;<tspan class="el">h1</tspan>&gt;Hi&lt;/<tspan class="el">hi</tspan>&gt;
     </textPath>
   </text>
 
   <path id="path1">
-    <animate fill="freeze" id="d1" attributeName="d" begin="1.2s" dur="0.3s" from="m0,25 h0" to="m0,25 h40" />
+    <animate fill="freeze" attributeName="d" begin="1s" dur="0.3s" from="m0,25 h0" to="m0,25 h56" />
   </path>
-  <text font-family="monospace" fill="#c9d1d9" font-size="20" dominant-baseline="auto" x="16" y="25" text-anchor="start">
+  <text font-family="monospace" font-size="14.5" x="16" y="36">
     <textPath xlink:href="#path1">
       &lt;<tspan class="el">p</tspan>&gt;
     </textPath>
   </text>
 
   <path id="path2">
-    <animate fill="freeze" id="d2" attributeName="d" begin="1.6s" dur="1.1s" from="m0,25 h0" to="m0,25 h160" />
+    <animate fill="freeze" attributeName="d" begin="1.2s" dur="1.1s" from="m0,25 h0" to="m0,25 h176" />
   </path>
-  <text font-family="monospace" fill="#c9d1d9" font-size="20" dominant-baseline="auto" x="16" y="50" text-anchor="start">
+  <text font-family="monospace" font-size="14.5" x="16" y="56">
     <textPath xlink:href="#path2">
-    &#160;&#160;I'm Jonnie.
+      &#160;&#160;I'm Jonnie.
     </textPath>
   </text>
 
   <path id="path4">
-    <animate fill="freeze" id="d4" attributeName="d" begin="2.8s" dur="2.5s" from="m0,25 h0" to="m0,25 h330" />
+    <animate fill="freeze" attributeName="d" begin="2.2s" dur="2.5s" from="m0,25 h0" to="m0,25 h346" />
   </path>
-  <text font-family="monospace" fill="#c9d1d9" font-size="20" dominant-baseline="auto" x="16" y="75" text-anchor="start">
+  <text font-family="monospace" font-size="14.5" x="16" y="76">
     <textPath xlink:href="#path4">
-    &#160;&#160;I'm a software developer.
+      &#160;&#160;I'm a software developer.
     </textPath>
   </text>
 
 
   <path id="path5">
-    <animate fill="freeze" id="d5" attributeName="d" begin="5.4s" dur="0.4s" from="m0,25 h0" to="m0,25 h50" />
+    <animate fill="freeze" attributeName="d" begin="4.6s" dur="0.4s" from="m0,25 h0" to="m0,25 h66" />
   </path>
-  <text font-family="monospace" fill="#c9d1d9" font-size="20" dominant-baseline="auto" x="16" y="100" text-anchor="start">
+  <text font-family="monospace" font-size="14.5" x="16" y="96">
     <textPath xlink:href="#path5">
       &lt;/<tspan class="el">p</tspan>&gt;
     </textPath>
   </text>
 
   <path id="path6">
-    <animate fill="freeze" id="d6" attributeName="d" begin="5.9s" dur="3s" from="m0,25 h0" to="m0,25 h365" />
+    <animate fill="freeze" attributeName="d" begin="4.9s" dur="3s" from="m0,25 h0" to="m0,25 h382" />
   </path>
-  <text font-family="monospace" fill="#c9d1d9" font-size="20" dominant-baseline="auto" x="16" y="125" text-anchor="start">
+  <text font-family="monospace" font-size="14.5" x="16" y="116">
     <textPath xlink:href="#path6">
       &lt;<tspan class="el">a</tspan> <tspan class="attr">href</tspan>=<tspan class="val">"//jonniek.github.io"</tspan>&gt;
     </textPath>
   </text>
 
   <path id="path7">
-    <animate fill="freeze" id="d7" attributeName="d" begin="9s" dur="1.2s" from="m0,25 h0" to="m0,25 h170" />
+    <animate fill="freeze" attributeName="d" begin="7.8s" dur="1.2s" from="m0,25 h0" to="m0,25 h186" />
   </path>
-  <text font-family="monospace" fill="#c9d1d9" font-size="20" dominant-baseline="auto" x="16" y="150" text-anchor="start">
+  <text font-family="monospace" font-size="14.5" x="16" y="136">
     <textPath xlink:href="#path7">
-    &#160;&#160;Read more...
+      &#160;&#160;Read more...
     </textPath>
   </text>
 
   <path id="path8">
-    <animate fill="freeze" attributeName="d" begin="10.3s" dur="0.4s" from="m0,25 h0" to="m0,25 h50" />
+    <animate fill="freeze" attributeName="d" begin="8.9s" dur="0.4s" from="m0,25 h0" to="m0,25 h66" />
   </path>
-  <text id="d8" font-family="monospace" fill="#24292f" font-size="20" dominant-baseline="auto" x="16" y="175" text-anchor="start">
+  <text font-family="monospace" font-size="14.5" x="16" y="156">
     <textPath xlink:href="#path8">
       &lt;/<tspan class="el">a</tspan>&gt;
     </textPath>
