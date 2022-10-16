@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 5 435 200" width="435px" height="195px">
   <style>
-    rect { background-color: #f6f8fa, border-radius: 5px; }
+    rect { fill: #f6f8fa }
     text { fill: #24292f }
     .el { fill: #116329 }
     .attr { fill: #0550ae }
     .val { fill: #0a3069 }
     @media (prefers-color-scheme:dark) {
-      rect { background-color: #161b22 }
+      rect { fill: #161b22 }
       text { fill: #c9d1d9 }
       .el { fill: #7ee787 }
       .attr { fill: #79c0ff }
