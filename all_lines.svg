@@ -25,16 +25,16 @@
   <path id="path0">
     <animate fill="freeze" attributeName="d" begin="0s" dur="1.1s" from="m16,30 h0" to="m16,30 h95" />
   </path>
-  <text font-family="monospace" font-size="15" dominant-baseline="text-top"  text-anchor="start">
+  <text font-family="monospace" font-size="14.5" dominant-baseline="text-top"  text-anchor="start">
     <textPath href="#path0">
-      &lt;<tspan class="el">h1</tspan>&gt;Hi&lt;/<tspan class="el">hi</tspan>&gt;
+      &lt;<tspan class="el">h1</tspan>&gt;Hi&lt;/<tspan class="el">h1</tspan>&gt;
     </textPath>
   </text>
 
   <path id="path1">
     <animate fill="freeze" attributeName="d" begin="1.2s" dur="0.3s" from="m16,50 h0" to="m16,50 h35" />
   </path>
-  <text font-family="monospace" font-size="15" dominant-baseline="text-top"  text-anchor="start">
+  <text font-family="monospace" font-size="14.5" dominant-baseline="text-top"  text-anchor="start">
     <textPath href="#path1">
       &lt;<tspan class="el">p</tspan>&gt;
     </textPath>
@@ -43,7 +43,7 @@
   <path id="path2">
     <animate fill="freeze" attributeName="d" begin="1.6s" dur="1.1s" from="m16,70 h16" to="m16,70 h135" />
   </path>
-  <text font-family="monospace" font-size="15" dominant-baseline="text-top"  text-anchor="start">
+  <text font-family="monospace" font-size="14.5" dominant-baseline="text-top"  text-anchor="start">
     <textPath href="#path2">
       &#160;&#160;I'm Jonnie.
     </textPath>
@@ -52,7 +52,7 @@
   <path id="path4">
     <animate fill="freeze" attributeName="d" begin="2.8s" dur="2.5s" from="m16,90 h16" to="m16,90 h240" />
   </path>
-  <text font-family="monospace" font-size="15" dominant-baseline="text-top"  text-anchor="start">
+  <text font-family="monospace" font-size="14.5" dominant-baseline="text-top"  text-anchor="start">
     <textPath href="#path4">
       &#160;&#160;I'm a software developer.
     </textPath>
@@ -62,7 +62,7 @@
   <path id="path5">
     <animate fill="freeze" attributeName="d" begin="5.4s" dur="0.4s" from="m16,110 h0" to="m16,110 h35" />
   </path>
-  <text font-family="monospace" font-size="15" dominant-baseline="text-top"  text-anchor="start">
+  <text font-family="monospace" font-size="14.5" dominant-baseline="text-top"  text-anchor="start">
     <textPath href="#path5">
       &lt;/<tspan class="el">p</tspan>&gt;
     </textPath>
@@ -71,7 +71,7 @@
   <path id="path6">
     <animate fill="freeze" attributeName="d" begin="5.9s" dur="3s" from="m16,130 h0" to="m16,130 h275" />
   </path>
-  <text font-family="monospace" font-size="15" dominant-baseline="text-top"  text-anchor="start">
+  <text font-family="monospace" font-size="14.5" dominant-baseline="text-top"  text-anchor="start">
     <textPath href="#path6">
       &lt;<tspan class="el">a</tspan> <tspan class="attr">href</tspan>=<tspan class="val">"//jonniek.github.io"</tspan>&gt;
     </textPath>
@@ -80,7 +80,7 @@
   <path id="path7">
     <animate fill="freeze" attributeName="d" begin="9s" dur="1.2s" from="m16,150 h16" to="m16,150 h135" />
   </path>
-  <text font-family="monospace" font-size="15" dominant-baseline="text-top"  text-anchor="start">
+  <text font-family="monospace" font-size="14.5" dominant-baseline="text-top"  text-anchor="start">
     <textPath href="#path7">
       &#160;&#160;Read more...
     </textPath>
@@ -89,7 +89,7 @@
   <path id="path8">
     <animate fill="freeze" attributeName="d" begin="10.3s" dur="0.4s" from="m16,170 h0" to="m16,170 h35" />
   </path>
-  <text font-family="monospace" font-size="15" dominant-baseline="text-top"  text-anchor="start">
+  <text font-family="monospace" font-size="14.5" dominant-baseline="text-top"  text-anchor="start">
     <textPath href="#path8">
       &lt;/<tspan class="el">a</tspan>&gt;
     </textPath>
